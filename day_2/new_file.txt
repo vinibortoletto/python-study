@@ -1,0 +1,6 @@
+Line 1
+Line 2
+Line 3
+Line from print
+Line 1 from array
+Line 2 from array

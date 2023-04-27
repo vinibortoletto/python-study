@@ -1,0 +1,14 @@
+# Ignore pycache
+__pycache__/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore the virtual environment directory
+.venv/
+
+# Ignore any logs created by the application
+*.log
+
+# Ignore any environment variables file
+.env
